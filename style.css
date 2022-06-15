@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#cont{
+    display: flex;
+    flex-direction: column;
+    line-height: 3em;
+}
