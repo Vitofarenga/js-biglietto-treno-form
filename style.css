@@ -8,3 +8,35 @@
     flex-direction: column;
     line-height: 3em;
 }
+/* biglietto */
+h2{
+    margin-top: 4rem;
+}
+#ticket{
+    margin-top: 2rem;
+    width: 100%;
+    background-color: aquamarine;
+    height: 10rem;
+    border-radius:10px;
+    box-shadow:10px 10px 5px #dedede;
+    display: flex;
+}
+#part-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.user{
+    margin-left: 2rem;
+    border: solid black 2px;
+    height: 3rem;
+    width: 10rem;
+    display: flex;
+    align-items: center;
+}
+#part-2{
+    height: 100%;
+    width: 1rem;
+    background-color: grey;
+    margin-left: 2rem;
+}
